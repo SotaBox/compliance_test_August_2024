@@ -4,20 +4,7 @@
 The assumption is a CSV file containing insurance claim data is stored in Google Cloud Storage. Your task is to extract this data, load it into PostgreSQL, perform some analyses, and store the results in PostgreSQL tables.
 
 ## Input Data
-The CSV file in Google Cloud Storage contains the following columns:
-- `IDpol`
-- `ClaimNb`
-- `Exposure`
-- `VehPower`
-- `VehAge`
-- `DrivAge`
-- `BonusMalus`
-- `VehBrand`
-- `VehGas`
-- `Area`
-- `Density`
-- `Region`
-- `ClaimAmount`
+The CSV file in Google Cloud Storage contains the following columns: The CSV file in Google Cloud Storage contains the following columns: The CSV file in Google Cloud Storage contains the following columns: IDpol, ClaimNb, Exposure, VehPower, VehAge, DrivAge, BonusMalus, VehBrand, VehGas, Area, Density, Region, ClaimAmount
 
 ## Tasks
 
